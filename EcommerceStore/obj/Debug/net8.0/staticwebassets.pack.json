@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceStore.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\carousel\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\carousel\\1.jpg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\carousel\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\carousel\\2.jpg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\carousel\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\carousel\\3.jpg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\carousel\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\carousel\\4.jpg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\carousel\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\carousel\\5.jpg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\carousel\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\carousel\\6.jpg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-left.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-right.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\copyright-sign.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\copyright-sign.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\facebook.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\hamburger.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\hamburger.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\index.js",
+      "PackagePath": "staticwebassets\\assets\\icons\\index.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\instagram.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\shield-tick.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\shield-tick.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\star.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\support.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\support.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\truck-fast.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\truck-fast.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\icons\\twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\twitter.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\Ecom-AIUB-Ecom-AIUB-wwwroot-assets-images.zip",
+      "PackagePath": "staticwebassets\\assets\\images\\Ecom-AIUB-Ecom-AIUB-wwwroot-assets-images.zip"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\big-shoe1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\big-shoe1.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\big-shoe2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\big-shoe2.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\big-shoe3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\big-shoe3.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\collection-background.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection-background.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\customer1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\customer1.jpeg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\customer2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customer2.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\footer-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-logo.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\header-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\header-logo.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\index.js",
+      "PackagePath": "staticwebassets\\assets\\images\\index.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\offer.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\offer.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\shoe4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoe4.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\shoe5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoe5.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\shoe6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoe6.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\shoe7.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoe7.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\shoe8.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoe8.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\thumbnail-background.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumbnail-background.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\thumbnail-shoe1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumbnail-shoe1.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\thumbnail-shoe2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumbnail-shoe2.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\assets\\images\\thumbnail-shoe3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumbnail-shoe3.svg"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\images\\47823562-4529-4772-b75c-a9d2bbf75567_sb-zoom-blazer-mid-electric-skate-shoes-SvL1V7.png",
+      "PackagePath": "staticwebassets\\images\\47823562-4529-4772-b75c-a9d2bbf75567_sb-zoom-blazer-mid-electric-skate-shoes-SvL1V7.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\images\\59883cab-3981-4720-8941-e4b798ad61bc_AIR+ZOOM+PEGASUS+40.png",
+      "PackagePath": "staticwebassets\\images\\59883cab-3981-4720-8941-e4b798ad61bc_AIR+ZOOM+PEGASUS+40.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\images\\926992cf-f024-46d4-8509-cb6fc3acad9f_AIR+ZOOM+PEGASUS+40.png",
+      "PackagePath": "staticwebassets\\images\\926992cf-f024-46d4-8509-cb6fc3acad9f_AIR+ZOOM+PEGASUS+40.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\images\\AIR+ZOOM+PEGASUS+40.png",
+      "PackagePath": "staticwebassets\\images\\AIR+ZOOM+PEGASUS+40.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\images\\sb-zoom-blazer-mid-electric-skate-shoes-SvL1V7.png",
+      "PackagePath": "staticwebassets\\images\\sb-zoom-blazer-mid-electric-skate-shoes-SvL1V7.png"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\DOTNET SOFTWARE\\EcommerceStore\\EcommerceStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceStore.props",
+      "PackagePath": "build\\EcommerceStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceStore.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceStore.props",
+      "PackagePath": "buildTransitive\\EcommerceStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
